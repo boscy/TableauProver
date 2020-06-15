@@ -4,4 +4,4 @@ A logical inference prover for temporal logic was made in python, using the tabl
 The algorithm creates a readable human-like tableau to check the validity of input inferences. 
 For invalid inferences, a counter-model is provided in the output.
 
-![Image](../blob/master/Example_tableau.png?raw=true)
+![Image](https://github.com/boscy/TableauProver/blob/master/Example_tableau.png?raw=true)
