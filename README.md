@@ -5,4 +5,5 @@ The algorithm creates a readable human-like tableau to check the validity of inp
 For invalid inferences, a counter-model is provided in the output, which is printed from a LaTeX file.
 
 An example output is the following:
+
 ![Image](https://github.com/boscy/TableauProver/blob/master/Example_tableau.png?raw=true)
